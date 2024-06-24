@@ -11,3 +11,7 @@
 * Station: For this example, the data used is from the New York, Central Park station (ID: USW00094728).
 
 * Processing: Filtered to include only maximum daily temperatures (TMAX) resampled to monthly averages for analysis.
+
+<p align="left">
+  <img width="1046" height="554" src="images/plot.png">
+</p>
