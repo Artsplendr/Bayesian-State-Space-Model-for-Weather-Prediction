@@ -1,7 +1,5 @@
 # Bayesian-State-Space-Model-for-Weather-Prediction
 
-# Bayesian State-Space Models for Weather Prediction
-
 #### According to [MathWorks](https://www.mathworks.com/help/econ/bayesian-state-space-model.html#): "A Bayesian state-space model treats the state-space model parameters as random variables, rather than fixed but unknown quantities, with joint prior distribution. This treatment leads to a more flexible model and intuitive inferences."
 
 ##### In this project, the Global Historical Climatology Network (GHCN) daily dataset, specifically focusing on temperature data, was used to experiment with Bayesian state-space model for Weather Forecast.  
