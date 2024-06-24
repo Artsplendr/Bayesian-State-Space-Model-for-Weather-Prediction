@@ -13,5 +13,5 @@
 * Processing: Filtered to include only maximum daily temperatures (TMAX) resampled to monthly averages for analysis.
 
 <p align="left">
-  <img width="1046" height="554" src="images/plot.png">
+  <img width="1046" height="554" src="plot.png">
 </p>
